@@ -21,6 +21,9 @@ There were no other contributers on this project
 ## Links: 
 
 ### Screencastify:
+[The Network Tutorial Part 1](https://watch.screencastify.com/v/s76qTX3BnSer2ED4E3RY)
+
+[The Network Tutorial Part 2](https://watch.screencastify.com/v/sFkz3RTN6DAhX3cumF7M)
 
 ### Github: 
 [The Network](https://github.com/hallerhc/The-Network)

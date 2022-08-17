@@ -27,3 +27,15 @@ There were no other contributers on this project
 
 ### Github: 
 [The Network](https://github.com/hallerhc/The-Network)
+
+## Images:
+### Create Reaction 👇
+![Create Reaction](https://user-images.githubusercontent.com/100663920/185263406-90a220b6-a015-4765-b750-24ffb13f53e1.png)
+
+### Get Thoughts 👇
+![Get Thoughts](https://user-images.githubusercontent.com/100663920/185263492-713fa549-c930-478f-ac1c-3c55264de540.png)
+
+### Find All Users 👇
+![Find All Users](https://user-images.githubusercontent.com/100663920/185263530-bc0193a2-8099-459e-b808-8dd918de3466.png)
+
+
